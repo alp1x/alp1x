@@ -1,7 +1,7 @@
 ###  Hello, folks! <img src="https://stickershop.line-scdn.net/stickershop/v1/product/4894287/LINEStorePC/main.png;compress=true" width="24px">
 <img align="right" src="https://cdn2.scratch.mit.edu/get_image/user/68153675_60x60.png" width="250px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alp1x&layout=compact&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alp1x&layout=compact&show_icons=true&theme=ayu-mirage)
 ](https://github.com/anuraghazra/github-readme-stats)
 
  
