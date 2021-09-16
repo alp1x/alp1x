@@ -1,5 +1,5 @@
 ###  Hello, folks! <img src="https://stickershop.line-scdn.net/stickershop/v1/product/4894287/LINEStorePC/main.png;compress=true" width="24px">
-<img align="right" src="https://www.icegif.com/wp-content/uploads/luffy-icegif-25.gif" width="350px">
+<img align="right" src="https://www.icegif.com/wp-content/uploads/luffy-icegif-25.gif" width="250px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alp1x&layout=compact&show_icons=true&theme=ayu-mirage)
 ](https://github.com/anuraghazra/github-readme-stats)
