@@ -6,7 +6,4 @@
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"  width="40px"/>
 </p>
-<p align="center">
-<img align="center" src="https://images.gamebanana.com/img/ico/sprays/luffy_run_render.gif" width="30px">
-</p>
- 
+
