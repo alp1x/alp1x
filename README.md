@@ -6,4 +6,6 @@
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40px"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"  width="40px"/>
 </p>
-
+ <p align="center">
+<img  src="https://www.panzercrom.com/wp-content/uploads/revslider/sliderdemo4/fire-png-gif-489.gif"  height="100px"/>
+</p>
